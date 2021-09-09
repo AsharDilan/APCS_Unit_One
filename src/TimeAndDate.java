@@ -8,8 +8,8 @@
 public class TimeAndDate {
 
     public static void main(String[] args) {
-        // Output the date and time for dismissal on the last day of school
-
+        System.out.println("8/31/2021 08:00am");
+        System.out.println("6/10/2022 01:00pm");
     }
 
 }
