@@ -6,5 +6,6 @@ public class TotalWithTax {
         //Make the calculations and assign
         //the results to the appropriate variables.
         //Print the results.
+
     }
 }
