@@ -8,6 +8,6 @@ public class RectangleArea {
         //declare area - use length and width to calculate area
         int area = (width*length);
         // output the answer
-        System.out.println(area);
+        System.out.println("Area=" + area);
     }
 }
