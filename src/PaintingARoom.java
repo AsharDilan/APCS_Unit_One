@@ -20,8 +20,9 @@ public class PaintingARoom {
     double var4 = windows*10;
     double var5 = var2-(var3+var4);
     double var6 = var5/350;
-    double var7 = (int)(-(-var6))/1;
-    System.out.println("Gallons of Paint Needed:" + var7 );
+    double var7 = (int)((var5*10));
+    double var8 = (int)((var7 + 10 - 1)/10);
+    System.out.println("Gallons of Paint Needed:" + var8 );
     }
 
 }
